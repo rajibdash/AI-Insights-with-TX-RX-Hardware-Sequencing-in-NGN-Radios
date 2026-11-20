@@ -3,3 +3,5 @@ To observe and optimize hardware sequencing in the TX (Transmit) and RX (Receive
 
 
 Primary goal: my main goal what insights with AI for Radio energy efficiency (PA sleep/wake-up optimization), spectral efficiency (tighter TDD switching), or beam-switching latency, DPD Warm-up, degraded hardware components and compensation etc.
+
+What kind of KPIs needed to consider with AI Insights? It looks PHY layer changes are more here.
